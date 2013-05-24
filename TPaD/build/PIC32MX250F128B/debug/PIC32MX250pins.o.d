@@ -1,0 +1,2 @@
+build/PIC32MX250F128B/debug/PIC32MX250pins.o:  \
+PIC32MX250pins.c 
